@@ -21,8 +21,12 @@
           
         </a></h1>
 
+                
+        {% if site.logo %}
+          <img src="site.logo" href="/"><img src="/img/logo.jpg" alt="" />
+        {% endif %}
         
-        <a class="site-logo" href="/"><img src="/img/logo.jpg" alt=""></a>
+
         
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
