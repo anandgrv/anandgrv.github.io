@@ -25,7 +25,7 @@
 
 ### Biological data classification based on RNA & DNA sequences and PSI blasts
 
-# Kaggle(./kaggle.md)
+# [Kaggle](./kaggle.md)
 
 # [Contact me](grv.aries001@gmail.com)
 
