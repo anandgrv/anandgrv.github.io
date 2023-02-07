@@ -1,6 +1,6 @@
 # Home
 
-# [About]
+# About
 
 ### Data Scientist, University of Padova, Italy.
 
