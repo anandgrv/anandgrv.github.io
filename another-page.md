@@ -26,6 +26,4 @@ layout: default
 
 ### Biological data classification based on RNA & DNA sequences and PSI blasts
 
-_yay_
-
 [back](./)
