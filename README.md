@@ -7,7 +7,7 @@
 ### Data Scientist - Berlin, Germany | Ex–Amazon | MS doctorate - Università degli Studi di Padova, Italy.
 
 
-# [Projects](./another-page.md)
+# [Data Science Projects](./another-page.md)
 
 ### Predicting Political Orientation From Twitter Data (Italian political parties)
 
