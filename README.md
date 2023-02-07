@@ -4,7 +4,7 @@
 # [About](./about.md)
 
 ### Data Scientist - Berlin, Germany | Ex–Amazon |
-MS doctorate - Università degli Studi di Padova, Italy.
+### MS doctorate - Università degli Studi di Padova, Italy.
 
 
 # [Data Science Projects](./another-page.md)
