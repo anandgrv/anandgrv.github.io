@@ -27,6 +27,6 @@
 
 # [Kaggle](./kaggle.md)
 
-# [Contact me](https://www.linkedin.com/in/gaurav-anand-71748ab8/)
+# [Connect on LinkedIn](https://www.linkedin.com/in/gaurav-anand-71748ab8/)
 
 # [Github](https://github.com/grvanand001)
