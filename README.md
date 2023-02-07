@@ -31,7 +31,7 @@
 
 ### Biological data classification based on RNA & DNA sequences and PSI blasts
 
-# Project codes on Kaggle
+# Kaggle
 
 ### [Image Classification with Fashion](https://www.kaggle.com/grvaries001/image-classification-challenge)
 
