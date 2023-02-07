@@ -33,11 +33,11 @@
 
 # Project codes on Kaggle
 
-### [Image Classification with Fashion](https://www.kaggle.com/grvaries001/image-classification-challenge?scriptVersionId=41451839)
+### [Image Classification with Fashion](https://www.kaggle.com/grvaries001/image-classification-challenge)
 
 ### [Statistical analysis on the data gathered during Covid-19 outbreak](https://www.kaggle.com/grvaries001/covid19-global-confirmed-cases-prediction-lr-model)
 
-### [Subject and Posture Classification with CNN](https://www.kaggle.com/code/grvaries001/sleep-classification-hda)
+### [Subject and Posture Classification with CNN](https://www.kaggle.com/code/grvaries001/subject-and-posture-classification-with-cnn)
 
 
 # [Contact me](grv.aries001@gmail.com)
