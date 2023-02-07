@@ -3,8 +3,8 @@
 
 # [About](./about.md)
 
-## Dr. Gaurav Anand 
-### Data Scientist - Berlin, Germany | Ex–Amazon | MS doctorate - Università degli Studi di Padova, Italy.
+### Data Scientist - Berlin, Germany | Ex–Amazon |
+MS doctorate - Università degli Studi di Padova, Italy.
 
 
 # [Data Science Projects](./another-page.md)
