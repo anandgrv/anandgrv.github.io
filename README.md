@@ -29,4 +29,4 @@
 
 # [Contact me](grv.aries001@gmail.com)
 
-# [Github](https://grvanand001.github.io/)
+# [Github](https://github.com/grvanand001)
