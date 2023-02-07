@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # [Home](https://grvanand001.github.io/)
 
