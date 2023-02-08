@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Home](https://grvanand001.github.io/)
+# [Go Home](https://grvanand001.github.io/)
 
 # Predicting Political Orientation From Twitter Data (Italian political parties)
 ##### 4 min read
