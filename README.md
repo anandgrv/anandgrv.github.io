@@ -7,7 +7,7 @@
 ### MS doctorate - Università degli Studi di Padova, Italy.
 
 
-# [Data Science Projects](./another-page.md)
+# [Data Science Projects](./projects.md)
 
 ### Predicting Political Orientation From Twitter Data (Italian political parties)
 
