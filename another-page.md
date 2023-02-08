@@ -6,7 +6,7 @@ layout: default
 
 # Data Science Projects
 
-## [Predicting Political Orientation From Twitter Data (Italian political parties)](./_projects/twitter.md)
+## [Predicting Political Orientation From Twitter Data (Italian political parties)](./twitter.md)
 
 #### The objective of this project was to predict political orientation from twitter contents. Twitter is a social networking service that allows users to post real time messages (called tweets). In the first phase we collected data based on an online survey that indirectly asked about the political preference of the surveyed individuals and data based on looking up twitter accounts that follow one of 5 parties included in the analysis (Lega, Movimento-5-Stelle, Partito Democratico, Forza Italia and Fratelli d’Italia) from the parties’ official twitter accounts. The second phase consisted of downloading tweets from the accounts gathered in phase 1. In the Third phase, the data was preprocessed and prepared. This was achieved by cleaning the data from noise and applying some of the feature engineering techniques. In the final phase, we tried multiple classifiers such as the Logistic Regression Model, Xgboost Classifier, Random Forest, Stochastic Gradient Descent Classifier and Multinomial Naïve Bayes classifier. From these models, we could finally predict the political orientation of “Movimento-5-Stelle” followers.
 
