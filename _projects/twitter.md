@@ -4,18 +4,6 @@ layout: default
 
 # [Home](https://grvanand001.github.io/)
 
----
-title: "Predicting Political Orientation From Twitter Data"
-date: 2020-07-18
-tags: ["NLP"]
-excerpt: "Natural Language Processing and Classification"
-mathjax: true
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
----
-
 ## Introduction
 This summary report aims to find a connection between user's twitter activity and their political affiliation. For the full report and code, please visit this link
 
