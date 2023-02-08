@@ -107,4 +107,4 @@ As explained in the previous sections, we used a Deep Learning approach, i.e., a
 
 Let us first consider the subject identification task, where we need to identify each participant for both data frames. The Convolutional Neural Network model achieved high accuracy (99.4%) in the first experiment, although it is a bit overfitted.
 
-[back](./another-page.md)
+[back](./projects.md)
