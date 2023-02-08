@@ -4,6 +4,7 @@ layout: default
 
 # [Home](https://grvanand001.github.io/)
 
+# Predicting Political Orientation From Twitter Data (Italian political parties)
 
 ## Introduction
 This summary report aims to find a connection between user's twitter activity and their political affiliation. For the full report and code, please visit this link
