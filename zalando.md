@@ -8,9 +8,6 @@ layout: default
 ##### 7 min read
 
 ## Introduction
-This summary report aims to find a connection between user's twitter activity and their political affiliation. For the full report and code, please visit this link
-
-## Abstract
 Image classification is a supervised learning problem, models are trained on labelled sample images to classify
 new unseen images. There is a growing application of image classification techniques in a huge variety of sectors
 such as health (disease detection through X-ray or ECG), automotive (driver less cars), security (person recognition) and industry (recognition of defective pieces in production lines). Even if there are many traditional ML models able to reach satisfying performances in this field they usually heavily rely on field related knowledge and data manipulation. On the other hand the highest performances are usually reached by neural networks, in particular the convolutional ones. We chose to implement algorithms from both these areas of machine learning to display a wider choice of model that may be useful in different kinds of applications. As we will see through the report CNN reaches as expected higher performances with respect to other models and for this reason we decided to tune this model in order to reach even higher levels of accuracy.
