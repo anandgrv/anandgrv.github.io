@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: archive
+author_profile: true
 ---
 
 # [Go Home](https://grvanand001.github.io/)
