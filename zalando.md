@@ -55,4 +55,4 @@ A lot of time was spent in tuning the learning rate in order to not waste the po
 we ultimately chose to use an exponential decay with SGD optimizer. To avoid over fitting we applied early stopping too. Since the over fit problem was under control we started increasing the capacity of our model increasing the depth of the dense part of the network passing from 0.9 to 0.93 accuracy just adding a couple of layers. Notice that using a GPU accelerator for the CNN training the time lowered to 1382 s.
 
 
-[back](./another-page.md)
+[back](./projects.md)
