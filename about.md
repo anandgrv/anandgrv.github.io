@@ -15,6 +15,6 @@ layout: default
 
 ### I have worked on many projects covering different topics from object recognition, image classification and various regression problems and excell at many highly technical programing aspects covering a wide variety of programing languages including Python, SQL, R among others.
 
-## [View Certificate](/images/degree_cert_MS.jpg [back](./))
+## [View Certificate](/images/degree_cert_MS.jpg)
 
 [back](./)
