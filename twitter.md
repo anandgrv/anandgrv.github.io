@@ -1,4 +1,10 @@
 ---
+layout: default
+---
+
+# [Home](https://grvanand001.github.io/)
+
+---
 title: "Predicting Political Orientation From Twitter Data"
 date: 2020-07-18
 tags: ["NLP"]
@@ -46,4 +52,6 @@ We begin with a model among the multitude to see which one is the most convenien
 After selecting the pipeline components of our model, we focused on improving their performance. This was done by removing stopwords and searching for the hyperparameters that yield best results.
 
 ## Conclusion
-The results were generated, as precedently stated, splitting the labelled users into a training set of 80% and a testing set of 20%. Between all models, the most successful one was the Random Forest Classifier, providing an accuracy of 91.16% with some fine tuning (removing stopwords, grid search on hyperparameters). The other good one has been the XGBoost, with an accuracy of 88.13%. 
+The results were generated, as precedently stated, splitting the labelled users into a training set of 80% and a testing set of 20%. Between all models, the most successful one was the Random Forest Classifier, providing an accuracy of 91.16% with some fine tuning (removing stopwords, grid search on hyperparameters). The other good one has been the XGBoost, with an accuracy of 88.13%.
+
+[back](./)
