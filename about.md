@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 ---
 
 # [Go Home](https://grvanand001.github.io/)
