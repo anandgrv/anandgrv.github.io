@@ -6,7 +6,7 @@ layout: default
 
 # About
 
-### Data Scientist - Berlin, Germany | Ex–Amazon | 
+### Data Scientist - Berlin, Germany | Ex–Amazon
 ### MS doctorate - Università degli Studi di Padova, Italy.
 
 A Data Scientist with multi-disciplinary technical skills and knowledge to apply in various domains for the collection, processing, management, analysis involved with big data, and consequent translation into fundamental information for the cognitive and decision-making process within innovative business and social sectors.
