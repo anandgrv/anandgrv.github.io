@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Home](https://grvanand001.github.io/)
+# [Go Home](https://grvanand001.github.io/)
 
 # Data Science Projects
 
