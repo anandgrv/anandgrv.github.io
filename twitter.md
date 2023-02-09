@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# [Go Home](https://grvanand001.github.io/)
+# [Go Home](https://anandgrv.github.io/)
 
 # Predicting Political Orientation From Twitter Data (Italian political parties)
 ##### 4 min read
 
 ## Introduction
-This summary report aims to find a connection between user's twitter activity and their political affiliation. For the full report and code, please visit this [link](https://github.com/grvanand001/twitter).
+This summary report aims to find a connection between user's twitter activity and their political affiliation. For the full report and code, please visit this [link](https://github.com/anandgrv/twitter).
 
 ## Abstract
 In recent years, analyzing data acquired from social networks platform to predict and understand more about human cognition, behaviors and orientation has been a rising trend. Social media has changed not only the way we passively receive information but also how we express our personal opinions about everyday issues. That is the reason why Facebook, Twitter, Youtube and other social networks have become valuable sources of data that can be beneficial for many areas. Automatic political orientation prediction from social media posts has been proven successful in distinguishing between liberals and conservatives in the US. In this project, we will try to do political orientation prediction on Italian language and Italian political landscape.
