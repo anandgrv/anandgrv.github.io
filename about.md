@@ -15,6 +15,6 @@ I have 8+ years of work experience in E-commerce domain including 5+ years of ex
 
 I have worked on various real-time business projects to automate and optimize the processes of E-commerce business operation and many projects during my masters covering different topics from object recognition, image classification and various regression problems and excell at many highly technical programing aspects covering a wide variety of programing languages including Python, SQL, R among others.
 
-## [View Certificate](/images/degree_cert_MS.jpg)
+## [View Certificate](/images/degree_cert_MS.jpg){:target="_blank" rel="noopener"}
 
 [back](./)
