@@ -27,6 +27,6 @@
 
 # [Kaggle](./kaggle.md)
 
-# [Connect on LinkedIn](https://www.linkedin.com/in/gaurav-anand-71748ab8/)
+# [Connect on LinkedIn](https://www.linkedin.com/in/gaurav-anand-71748ab8/){:target="_blank" rel="noopener"}
 
 # [Contact](mailto:grv.aries001@gmail.com)
