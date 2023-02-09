@@ -34,4 +34,6 @@ The objective of this project was to perform a Statistical Data Analysis of the 
 ## Biological data classification based on RNA & DNA sequences and PSI blasts
 ##### 3 min read
 
+The aim of this project is to characterize a single domain, particularly Nucleotidyl Transferase from the organism Yersinia pseudotuberculosis - a bacterial species that most commonly causes foodborne illness. We have been assigned a domain sequence from which we build a sequence model to provide structural and functional characterization of the domain family. All the results can be viewed by using this code available on [Github](https://github.com/grvanand001/bio_project) .
+
 [back](./)
