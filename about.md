@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Go Home](https://grvanand001.github.io/)
+# [Go Home](https://anandgrv.github.io/)
 
 # About
 
