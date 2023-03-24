@@ -29,4 +29,4 @@
 
 # [Connect on LinkedIn](https://www.linkedin.com/in/anandgrv/){:target="_blank" rel="noopener"}
 
-# [Contact](mailto:grv.aries001@gmail.com)
+# [Contact](mailto:anandgrv001@gmail.com)
