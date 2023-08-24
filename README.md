@@ -3,7 +3,7 @@
 
 # [About](./about.md)
 
-### Data Scientist - Berlin, Germany | Ex–Amazon
+### Entrepreneur | Data Scientist | Ex–Amazon
 ### MS doctorate - Università degli Studi di Padova, Italy.
 
 
